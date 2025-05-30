@@ -1,0 +1,7 @@
+{
+    "python.defaultInterpreterPath": "./tax_env/Scripts/python.exe",
+    "python.terminal.activateEnvironment": true,
+    "files.autoSave": "onFocusChange",
+    "explorer.confirmDelete": false,
+    "terminal.integrated.defaultProfile.windows": "PowerShell"
+}
